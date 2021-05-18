@@ -1,0 +1,7 @@
+{
+  "name" : "theia_tasks_filter_bug",
+  "scripts" : {
+    "build" : "echo \"building...\"",
+    "test" : "echo \"no tests found...\""
+  }
+}
