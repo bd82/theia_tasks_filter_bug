@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "build",
+            "group": "build",
+            "label": "npm: build"
+        },
+        {
+            "type": "npm",
+            "script": "bamba",
+            "group": "test",
+            "label": "npm: bamba"
+        }
+    ]
+}
